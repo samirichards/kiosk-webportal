@@ -1,4 +1,6 @@
-body {background-color: #171717;}
+body {
+    background: radial-gradient(#323232, #171717);;
+}
 
 .centered-parent {
     display: flex;
@@ -26,4 +28,12 @@ body {background-color: #171717;}
     min-height: 30%;
     max-height: 80%;
     height: 60vh;
+}
+
+.accent-color-background{
+    background-color:#eb380c ;
+}
+
+.accent-color-foreground{
+    color:#eb380c ;
 }

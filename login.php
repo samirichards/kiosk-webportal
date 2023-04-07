@@ -1,5 +1,5 @@
 <?php
-    $PageTitle="Home";
+    $PageTitle="Login";
     function customPageHeader(){?>
         <!--Arbitrary HTML Tags-->
     <?php }
@@ -10,18 +10,18 @@
                 Login
             </div>
             <div class="card-content">
-                <form>
+                <form name="login" method="post" action="php/loginscript.php">
                     <div class="input-field">
-                        <input id="username" type="email" class="validate">
-                        <label for="username">Email</label>
+                        <input id="email" name="email" type="email" class="validate">
+                        <label for="email">Email</label>
                     </div>
                     <div class="input-field">
-                        <input id="password" type="password" class="validate">
+                        <input id="password" name="password" type="password" class="validate">
                         <label for="password">Password</label>
                     </div>
-                    <button class="btn waves-effect waves-light" type="submit" name="action">Submit</button>
+                    <button class="btn waves-effect waves-light orange darken-3 white-text" type="submit" name="action">Submit</button>
                 </form>
-                <a class="waves-effect waves-teal btn-flat" href="register.php">Create an Account</a>
+                <a class="waves-effect waves-orange btn-flat" href="register.php">Create an Account</a>
             </div>
         </div>
     </div>
