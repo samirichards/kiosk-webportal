@@ -2,19 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dcc3fed1-930e-4281-96b2-126458af6d38" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/php/adddevicescript.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/connection.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/loginscript.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/logoutscript.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/registeraccountscript.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/script/init.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/header.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/home.php" beforeDir="false" afterPath="$PROJECT_DIR$/home.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/login.php" beforeDir="false" afterPath="$PROJECT_DIR$/login.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new-device.php" beforeDir="false" afterPath="$PROJECT_DIR$/new-device.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/register.php" beforeDir="false" afterPath="$PROJECT_DIR$/register.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style/site.css" beforeDir="false" afterPath="$PROJECT_DIR$/style/site.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +58,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1680865629805</updated>
-      <workItem from="1680865631134" duration="15270000" />
+      <workItem from="1680865631134" duration="15891000" />
     </task>
     <servers />
   </component>
