@@ -1,0 +1,29 @@
+body {background-color: #171717;}
+
+.centered-parent {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* make the parent element fill the viewport */
+}
+
+.rounded {
+    border-radius: 4px;
+}
+
+.rounded-1 {
+    border-radius: 8px;
+}
+
+.rounded-2 {
+    border-radius: 16px;
+}
+
+.login-box{
+    min-width: 30%;
+    max-width: 80%;
+    width: 50vw;
+    min-height: 30%;
+    max-height: 80%;
+    height: 60vh;
+}
